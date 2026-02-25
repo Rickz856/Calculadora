@@ -1,4 +1,4 @@
-#Calculadora CLI — Python e Shell Script
+*Calculadora CLI — Python e Shell Script*
 
 📖 Descrição do Projeto
 
