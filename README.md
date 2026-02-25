@@ -1,4 +1,4 @@
-Calculadora CLI — Python e Shell Script
+#Calculadora CLI — Python e Shell Script
 
 📖 Descrição do Projeto
 
@@ -61,6 +61,7 @@ python calc.py
 Caso o comando padrão do seu sistema seja python3, utilize:
 
 python3 calc.py
+
 🎯 Objetivo Acadêmico
 
 Projeto desenvolvido como exercício prático para reforçar:
@@ -71,4 +72,4 @@ Execução via terminal
 
 Controle de versão com Git
 
-Organização de repositório no GitHub
+Organização de repositório no GitHub.
