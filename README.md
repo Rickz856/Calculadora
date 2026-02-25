@@ -68,11 +68,11 @@ cd caminho/do/projeto
 
 Execute o arquivo Python:
 
-python calc.py
+python calculadora.py
 
 Caso o comando padrão do seu sistema seja python3, utilize:
 
-python3 calc.py
+python3 calculadora.py
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
