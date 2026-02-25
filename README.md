@@ -22,6 +22,8 @@ Shell Script (Bash)
 
 Versionamento com Git
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ⚙️ *Requisitos do Ambiente*
 
 Para execução correta do projeto, é necessário:
