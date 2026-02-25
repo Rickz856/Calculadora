@@ -18,4 +18,4 @@ Execute o comando:
 python calc.py
 Dica: se o seu sistema usa python3 como comando principal, execute python3 calc.py em vez de python calc.py
 
-Calculadora em Python e Shell Script - atividade EBAC
+Calculadora em Python e Shell Script - atividade EBAC.
