@@ -1,6 +1,6 @@
-*Calculadora CLI — Python e Shell Script*
+**Calculadora CLI — Python e Shell Script**
 
-📖 Descrição do Projeto
+📖 *Descrição do Projeto*
 
 Este projeto consiste na implementação de uma calculadora executada via linha de comando (CLI), desenvolvida em duas versões distintas:
 
@@ -10,7 +10,7 @@ calculadora.sh — Implementação em Shell Script
 
 A aplicação foi desenvolvida como atividade prática do curso de Análise de Dados da EBAC, com controle de versão realizado através do GitHub Desktop.
 
-🛠️ Tecnologias Utilizadas
+🛠️ *Tecnologias Utilizadas*
 
 Python 3
 
@@ -18,7 +18,7 @@ Shell Script (Bash)
 
 Versionamento com Git
 
-⚙️ Requisitos do Ambiente
+⚙️ *Requisitos do Ambiente*
 
 Para execução correta do projeto, é necessário:
 
@@ -32,9 +32,9 @@ macOS
 
 Windows com WSL
 
-🚀 Execução do Projeto
+🚀 *Execução do Projeto*
 
-▶️ Executando a versão em Shell Script
+▶️ *Executando a versão em Shell Script*
 
 Acesse o diretório do projeto via terminal:
 
@@ -48,7 +48,7 @@ Execute o script:
 
 ./calculadora.sh
 
-▶️ Executando a versão em Python
+▶️ *Executando a versão em Python*
 
 Acesse o diretório do projeto via terminal:
 
@@ -62,7 +62,7 @@ Caso o comando padrão do seu sistema seja python3, utilize:
 
 python3 calc.py
 
-🎯 Objetivo Acadêmico
+🎯 *Objetivo Acadêmico*
 
 Projeto desenvolvido como exercício prático para reforçar:
 
