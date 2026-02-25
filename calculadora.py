@@ -40,6 +40,7 @@ while True:
         a = float(input("Digite o primeiro número: "))
         b = float(input("Digite o segundo número: "))
 
+        # Verifica qual operação escolher e mostra o resultado
         if opcao == "1":
             print("Resultado:", soma(a, b))
         elif opcao == "2":
@@ -49,4 +50,5 @@ while True:
         elif opcao == "4":
             print("Resultado:", divisao(a, b))
     else:
+
         print("Opção inválida! Tente novamente.")
