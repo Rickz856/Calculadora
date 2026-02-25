@@ -1,34 +1,74 @@
-# Calculadora em Python e Shell Script
+Calculadora CLI — Python e Shell Script
 
-Este repositório contém uma calculadora executada via terminal, desenvolvida em duas versões:
+📖 Descrição do Projeto
 
-Uma versão em Python (calc.py)
+Este projeto consiste na implementação de uma calculadora executada via linha de comando (CLI), desenvolvida em duas versões distintas:
 
-Uma versão em Shell Script (calculadora.sh)
+calc.py — Implementação em Python
 
-O projeto foi desenvolvido como atividade prática do curso de Análise de Dados da EBAC, utilizando versionamento com GitHub Desktop.
+calculadora.sh — Implementação em Shell Script
 
-Requisitos
-Python 3 instalado
+A aplicação foi desenvolvida como atividade prática do curso de Análise de Dados da EBAC, com controle de versão realizado através do GitHub Desktop.
 
-Sistema operacional compatível com execução de scripts .sh (Linux, macOS ou WSL no Windows)
+🛠️ Tecnologias Utilizadas
 
-Como executar o arquivo .sh
+Python 3
 
-Acesse a pasta do projeto pelo terminal.
+Shell Script (Bash)
 
-Caso necessário, conceda permissão de execução ao arquivo:
+Versionamento com Git
+
+⚙️ Requisitos do Ambiente
+
+Para execução correta do projeto, é necessário:
+
+Python 3 instalado e configurado no PATH
+
+Sistema operacional compatível com execução de scripts .sh:
+
+Linux
+
+macOS
+
+Windows com WSL
+
+🚀 Execução do Projeto
+
+▶️ Executando a versão em Shell Script
+
+Acesse o diretório do projeto via terminal:
+
+cd caminho/do/projeto
+
+Conceda permissão de execução ao script (caso necessário):
 
 chmod +x calculadora.sh
 
-Como executar a calculadora em Python (calc.py)
+Execute o script:
 
-Acesse a pasta do projeto pelo terminal do seu editor de código.
+./calculadora.sh
 
-Execute o comando:
+▶️ Executando a versão em Python
+
+Acesse o diretório do projeto via terminal:
+
+cd caminho/do/projeto
+
+Execute o arquivo Python:
 
 python calc.py
 
-Dica: se o seu sistema usa python3 como comando principal, execute python3 calc.py em vez de python calc.py
+Caso o comando padrão do seu sistema seja python3, utilize:
 
-Calculadora em Python e Shell Script - atividade EBAC.
+python3 calc.py
+🎯 Objetivo Acadêmico
+
+Projeto desenvolvido como exercício prático para reforçar:
+
+Estruturação de scripts
+
+Execução via terminal
+
+Controle de versão com Git
+
+Organização de repositório no GitHub
